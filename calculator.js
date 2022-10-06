@@ -1,4 +1,5 @@
 function add(x, y) {
+  // Good code
   if (isNaN(x)) {
     x = 0;
   }
